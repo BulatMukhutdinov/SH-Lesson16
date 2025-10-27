@@ -1,4 +1,4 @@
-package tat.mukhutdinov.lesson18.ui
+package tat.mukhutdinov.dessertRelease.ui
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
@@ -6,7 +6,7 @@ import androidx.lifecycle.viewmodel.initializer
 import androidx.lifecycle.viewmodel.viewModelFactory
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
-import tat.mukhutdinov.lesson18.R
+import tat.mukhutdinov.dessertRelease.R
 
 /*
  * View model of Dessert Release components

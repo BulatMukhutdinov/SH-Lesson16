@@ -1,4 +1,4 @@
-package tat.mukhutdinov.lesson18.data.local
+package tat.mukhutdinov.dessertRelease.data.local
 
 /*
  * Set data for Android Release dessert name

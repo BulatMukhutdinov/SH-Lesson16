@@ -1,4 +1,4 @@
-package tat.mukhutdinov.lesson18.ui
+package tat.mukhutdinov.dessertRelease.ui
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.PaddingValues
@@ -34,9 +34,9 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
-import tat.mukhutdinov.lesson18.R
-import tat.mukhutdinov.lesson18.data.local.LocalDessertReleaseData
-import tat.mukhutdinov.lesson18.ui.theme.DessertReleaseTheme
+import tat.mukhutdinov.dessertRelease.R
+import tat.mukhutdinov.dessertRelease.data.local.LocalDessertReleaseData
+import tat.mukhutdinov.dessertRelease.ui.theme.DessertReleaseTheme
 
 /*
  * Screen level composable

@@ -1,4 +1,4 @@
-package tat.mukhutdinov.lesson18.ui.theme
+package tat.mukhutdinov.dessertRelease.ui.theme
 
 
 import android.os.Build
